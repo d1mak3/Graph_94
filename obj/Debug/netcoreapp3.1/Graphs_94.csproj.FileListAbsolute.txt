@@ -1,0 +1,13 @@
+C:\Users\ДИМОООООООН\source\repos\TMP\Graphs_94\bin\Debug\netcoreapp3.1\Graphs_94.exe
+C:\Users\ДИМОООООООН\source\repos\TMP\Graphs_94\bin\Debug\netcoreapp3.1\Graphs_94.deps.json
+C:\Users\ДИМОООООООН\source\repos\TMP\Graphs_94\bin\Debug\netcoreapp3.1\Graphs_94.runtimeconfig.json
+C:\Users\ДИМОООООООН\source\repos\TMP\Graphs_94\bin\Debug\netcoreapp3.1\Graphs_94.runtimeconfig.dev.json
+C:\Users\ДИМОООООООН\source\repos\TMP\Graphs_94\bin\Debug\netcoreapp3.1\Graphs_94.dll
+C:\Users\ДИМОООООООН\source\repos\TMP\Graphs_94\bin\Debug\netcoreapp3.1\Graphs_94.pdb
+C:\Users\ДИМОООООООН\source\repos\TMP\Graphs_94\obj\Debug\netcoreapp3.1\Graphs_94.csprojAssemblyReference.cache
+C:\Users\ДИМОООООООН\source\repos\TMP\Graphs_94\obj\Debug\netcoreapp3.1\Graphs_94.AssemblyInfoInputs.cache
+C:\Users\ДИМОООООООН\source\repos\TMP\Graphs_94\obj\Debug\netcoreapp3.1\Graphs_94.AssemblyInfo.cs
+C:\Users\ДИМОООООООН\source\repos\TMP\Graphs_94\obj\Debug\netcoreapp3.1\Graphs_94.csproj.CoreCompileInputs.cache
+C:\Users\ДИМОООООООН\source\repos\TMP\Graphs_94\obj\Debug\netcoreapp3.1\Graphs_94.dll
+C:\Users\ДИМОООООООН\source\repos\TMP\Graphs_94\obj\Debug\netcoreapp3.1\Graphs_94.pdb
+C:\Users\ДИМОООООООН\source\repos\TMP\Graphs_94\obj\Debug\netcoreapp3.1\Graphs_94.genruntimeconfig.cache

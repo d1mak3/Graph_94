@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Graphs_94/1.0.0": {
+        "runtime": {
+          "Graphs_94.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Graphs_94/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
