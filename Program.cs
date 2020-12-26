@@ -7,28 +7,35 @@
  */
 
 using System;
+using System.Collections.Generic;
 
 namespace Graphs_94
 {
 	class Program
 	{
-		static void Main(string[] args)
+		static void Main()
 		{
 			Graph graph = new Graph();
+			List<Node> nodes = new List<Node>();
 
-			graph.PushNode(1);
-			graph.PushNode(2);
-			graph.PushNode(3);
-			graph.PushNode(4);
-			graph.PushNode(5);
+			for (int i = 1; i <= 5; ++i)
+			{
+				nodes.Add(new Node(i));
+			}
 
-			graph.ConnectNodes(1, 2);
-			graph.ConnectNodes(2, 3);
-			graph.ConnectNodes(3, 1);
-			graph.ConnectNodes(4, 5);
-			graph.ConnectNodes(5, 4);
+			foreach (Node n in nodes)
+				graph.PushNode(n);
+
+			graph.ConnectNodes(nodes[0], nodes[1]);
+			graph.ConnectNodes(nodes[1], nodes[2]);
+			graph.ConnectNodes(nodes[2], nodes[0]);
+			graph.ConnectNodes(nodes[0], nodes[2]);
+			graph.ConnectNodes(nodes[3], nodes[4]);
+
 
 			graph.PrintMatrix();
+
+			Console.WriteLine($"Цикломатическая сложность графа: {graph.CyclomaticComplexity}");
 		}
 	}
 }
