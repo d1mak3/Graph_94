@@ -59,7 +59,7 @@ namespace Graphs_94
 					else
 						Console.Write(_matrix[i, j] + "   ");
 				}
-				Console.WriteLine();
+				Console.WriteLine('\n');
 			}
 		}		
 
